@@ -1,10 +1,19 @@
 
-Przed przystąpieniem do pracy  przeczytaj poniższe wskazówki.
-## Jak zacząć?
+# 🎁 CharityApplication
 
-1. Zaimportuj projekt jako projekt `Maven`, wg poniższych wskazówek:
+**CharityApplication** to aplikacja webowa, która umożliwia przekazywanie darów (np. odzieży, zabawek, elektroniki) wybranym organizacjom charytatywnym.  
 
-	* W `IntelliJ` wybieramy: `File –> New –> Project from Existing Sources...`
-	* Wskazujemy lokalizację katalogu ze sklonowanym projektem i zatwierdzamy.
-	* Następnie w nowym oknie wybieramy: `Import project from external model` i wskazujemy `Maven`
-	* Wybieramy kolejno opcje: `Next –> Next –> Next –> Finish`
+
+
+
+## 🚀 Funkcjonalności
+
+- 👤 Rejestracja i logowanie użytkowników
+- 📦 Formularz do przekazywania darów (ubrania, zabawki, sprzęt)
+- 🏛️ Lista wspieranych organizacji charytatywnych
+- 📄 Historia przekazanych darów (dla zalogowanego użytkownika)
+
+- ## 🧪 Technologie
+
+- **Backend:** Java, Spring Boot, Spring Security
+- **Frontend:** HTML, CSS, JavaScript
